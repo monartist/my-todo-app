@@ -1,0 +1,4 @@
+clean home
+make lunch
+go shopping
+buy something
